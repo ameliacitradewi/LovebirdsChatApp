@@ -1,0 +1,6 @@
+framework module Pods_lovebirds {
+  umbrella header "Pods-lovebirds-umbrella.h"
+
+  export *
+  module * { export * }
+}
